@@ -5,17 +5,16 @@ using UnityEngine;
 public class CycleObjects : MonoBehaviour
 {
 
-    public List<GameObject> objectsCycle;
+    public List<GameObject> objectsCycle = new List<GameObject>();
     private int index = 0;
     void Start()
     {
-        
-       
+         
     }
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.C)){
+        if (Input.GetKeyDown(KeyCode.C)){
             cycle();
         } 
     }
