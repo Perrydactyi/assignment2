@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
-    public float moveSpeed = 15f;            
-    public float rotationSpeed = 100f;     
-    public float hoverHeight = 4f;         
+    public float moveSpeed;            
+    public float rotationSpeed;    
+    public float hoverHeight;         
     public float smoothPosition = 5f;       
     public float smoothRotation = 5f;       
     public float gravity = 9.81f;          

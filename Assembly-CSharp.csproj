@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Follow_Camera.cs" />
+    <Compile Include="Assets\Scripts\CycleObjects.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\levitation.cs" />
   </ItemGroup>
