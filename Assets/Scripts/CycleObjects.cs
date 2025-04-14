@@ -29,5 +29,7 @@ public class CycleObjects : MonoBehaviour
         }
 
         objectsCycle[index].SetActive(true);
+
+        
     }
 }

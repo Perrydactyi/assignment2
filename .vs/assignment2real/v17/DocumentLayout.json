@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ttvni\\Documents\\GitHub\\assignment2real\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ttvni\\Documents\\GitHub\\assignment2real\\Assets\\Scripts\\Audio.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Audio.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ttvni\\Documents\\GitHub\\assignment2real\\Assets\\Scripts\\CycleObjects.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CycleObjects.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "C:\\Users\\ttvni\\Documents\\GitHub\\assignment2real\\Assets\\Scripts\\Audio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio.cs",
+              "ToolTip": "C:\\Users\\ttvni\\Documents\\GitHub\\assignment2real\\Assets\\Scripts\\Audio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T23:51:52.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CycleObjects.cs",
               "DocumentMoniker": "C:\\Users\\ttvni\\Documents\\GitHub\\assignment2real\\Assets\\Scripts\\CycleObjects.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CycleObjects.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Movement.cs",
               "DocumentMoniker": "C:\\Users\\ttvni\\Documents\\GitHub\\assignment2real\\Assets\\Scripts\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "levitation.cs",
               "DocumentMoniker": "C:\\Users\\ttvni\\Documents\\GitHub\\assignment2real\\Assets\\Scripts\\levitation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\levitation.cs",
